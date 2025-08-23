@@ -1,7 +1,7 @@
 Hi 👋 My name is Dhruv Jain
 ===============================
 
-Machine Learnng Engineer
+Machine Learning Engineer
 ------------------------
 
 I am currently enrolled in B.tech, specialization in Data Science at Heritage Institute of Technology. Expected to graduate in 2026.
